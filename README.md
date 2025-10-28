@@ -3,6 +3,11 @@ To establish the DAWN Black Box as a mandatory, zero-trust cryptographic gateway
 
 https://gemini.google.com/share/1efe80c6c883
 
+![IMG_1328](https://github.com/user-attachments/assets/19aa255d-4555-4818-b4f7-e41bef40fc63)
+
+![IMG_1322](https://github.com/user-attachments/assets/05f2544c-11df-46df-b0f5-3de9855b53f3)
+
+
 1. The Core Vision: Data Sovereignty as a Default
 The Black Box's primary function is to provide decentralized broadband. However, a truly self-sovereign user needs guarantees that their data is protected before it touches the decentralized network.
 
